@@ -1,28 +1,54 @@
-# maxwell-shopify-landing
-🖤 MaxWell — Shopify Landing Page
+## 🖤 MaxWell — Shopify E-commerce Landing Page
 
-E-commerce landing page created using Shopify.
+E-commerce landing page for a modern fashion brand, built using Shopify.
 
-🔧 Technologies:
+The project focuses on clean design, product presentation, and a user-friendly structure aimed at improving conversion.
 
-Shopify (themes, sections)
+---
 
-HTML / CSS
+## 🔧 Technologies:
+- Shopify (themes, sections, basic Liquid)
+- HTML5 / CSS3
+- JavaScript
 
-JavaScript
+---
 
-💡 Features:
+## 🎯 What I did:
+- Built landing page structure for a fashion e-commerce store
+- Customized Shopify theme (sections, layout, content)
+- Implemented responsive design (mobile-first approach)
+- Created product-focused UI blocks
+- Structured content for better user experience and readability
 
-Responsive design (mobile-first)
+---
 
-Product-focused layout
+## 💡 Key focus:
+- Clean and modern UI
+- Mobile-first design
+- E-commerce user flow
+- Conversion-oriented layout
 
-Clean UI for fashion brand
+---
 
-📸 Preview:
+## 📸 Preview
 
-images/
+### Desktop
+![Main](images/main_2.png)
+![Navigation](images/header_nav.png)
+![Products](images/all_cards.png)
+![Items](images/item.png)
+![Cart](images/cart_2.png)
+![Footer](images/footer.png)
 
-🔗 Live Demo:
+### Mobile
+![Mobile](images/mobile/mobile_main.png)
 
+---
+
+## 🔗 Live Demo:
 https://kvuui9-v5.myshopify.com/
+
+---
+
+## ⚠️ Note:
+This project was developed using the Shopify platform for learning and portfolio purposes.
