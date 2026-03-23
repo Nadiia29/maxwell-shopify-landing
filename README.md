@@ -21,7 +21,7 @@ Clean UI for fashion brand
 
 📸 Preview:
 
-(вставиш картинки)
+images/
 
 🔗 Live Demo:
 
