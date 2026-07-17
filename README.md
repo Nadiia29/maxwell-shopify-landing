@@ -1,4 +1,4 @@
-## 🖤 MaxWell — Shopify E-commerce Landing Page
+## 🖤 MaxWell - Shopify Fashion Store
 
 E-commerce landing page for a modern fashion brand, built using Shopify.
 
@@ -43,10 +43,6 @@ The project focuses on clean design, product presentation, and a user-friendly s
 ### Mobile
 ![Mobile](images/mobile/mobile_main.png)
 
----
-
-## 🔗 Live Demo:
-https://kvuui9-v5.myshopify.com/
 
 ---
 
